@@ -28,7 +28,7 @@ You are given a pre-trained, `sklearn` model that has been trained to predict ho
 - Run the application on docker by calling `./run_docker.sh`
 
 ### Step 3: Upload to Docker Hub
-- In the `./upload_docker.sh` file, edit the dockerpath (line 8) and change the docker username to a personalized one (or leave it as is, to use the public trinhlv2/trinhlv2:v1.0.0)
+- In the `./upload_docker.sh` file, edit the dockerpath (line 8) and change the docker username to a personalized one (or leave it as is, to use the public vtrinh111/devopsproject4:v1.0.0)
 - To upload to docker hub, run `./upload_docker.sh`
 
 ### Step 4: Kubernetes deployment

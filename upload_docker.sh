@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=trinhlv2/trinhlv2:v1.0.0
+dockerpath=vtrinh111/devopsproject4:v1.0.0
 
 # Step 2:  
 # Authenticate & tag
