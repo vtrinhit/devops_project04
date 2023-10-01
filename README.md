@@ -1,5 +1,5 @@
-<include a CircleCI status badge, here>
-[![CircleCI](https://circleci.com/gh/vtrinhit/devops_project04.svg?style=svg)](https://github.com/vtrinhit/devops_project04)
+[![CircleCI](https://circleci.com/gh/vtrinhit/devops_project04/tree/main.svg?style=svg)](https://github.com/vtrinhit/devops_project04/tree/main)
+
 
 ## Project Overview
 
